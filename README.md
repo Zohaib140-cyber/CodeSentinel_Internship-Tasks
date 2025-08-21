@@ -33,8 +33,8 @@ Scikit-learn – Machine Learning
 🚀 How to Run
 Clone the repository:
 
-git clone https://github.com/Zohaib140-cyber/data-analysis-tasks.git
-cd data-analysis-tasks
+git clone https://github.com/Zohaib140-cyber/CodeSentinel_Internship-Tasks.git
+
 
 
 Install required libraries:
