@@ -33,7 +33,7 @@ Scikit-learn – Machine Learning
 🚀 How to Run
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/data-analysis-tasks.git
+git clone https://github.com/Zohaib140-cyber/data-analysis-tasks.git
 cd data-analysis-tasks
 
 
